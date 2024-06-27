@@ -9,7 +9,7 @@
 5. Restart the server
 
 # Configuration file (settings_namereward.json)
-```json
+```
 {
   "Website": "example.com",
   "ExperienceMultiplier": 1.5,
