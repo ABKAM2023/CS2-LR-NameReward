@@ -3,7 +3,7 @@
 
 # Installation
 1. Install [C# Levels Ranks Core](https://github.com/ABKAM2023/CS2-LevelsRanks-Core/tree/v1.0)
-2. Download [C#] [LR] Module - Tag
+2. Download [C#] [LR] Module - NameReward
 3. Unpack the archive and upload it to your game server
 4. Configure settings_namereward.json
 5. Restart the server
@@ -30,7 +30,7 @@
 
 # Установка
 1. Установите [C# Levels Ranks Core](https://github.com/ABKAM2023/CS2-LevelsRanks-Core/tree/v1.0)
-2. Скачайте [C#] [LR] Module - Tag
+2. Скачайте [C#] [LR] Module - NameReward
 3. Распакуйте архив и загрузите его на игровой сервер
 4. Настройте settings_namereward.json
 5. Перезапустите сервер
